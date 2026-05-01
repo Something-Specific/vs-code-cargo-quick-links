@@ -1,9 +1,9 @@
 {
-  "name": "cargo-toml-lens",
-  "displayName": "Cargo.toml Lens",
+  "name": "cargo-quick-links",
+  "displayName": "Cargo Quick Links",
   "description": "Navigate to crate documentation, repository, and crates.io pages directly from Cargo.toml dependency lines.",
   "version": "0.1.0",
-  "publisher": "SomethingSpecific",
+  "publisher": "something-specific",
   "repository": {
     "type": "git",
     "url": "https://github.com/Something-Specific/vs-code-cargo.toml-code-lens"
