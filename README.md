@@ -12,7 +12,7 @@ Every crates.io dependency gets three clickable links directly above its line:
 - **$(book) docs.rs** — open the crate's API documentation on [docs.rs](https://docs.rs)
 - **$(source-control) Repository** — open the crate's source repository (resolved lazily from crates.io metadata)
 
-![CodeLens links above workspace dependencies](examples/CargoQuickLinksDemo1.png)
+![CodeLens links above workspace dependencies](https://github.com/Something-Specific/vs-code-cargo-quick-links/blob/main/examples/CargoQuickLinksDemo1.png?raw=true)
 
 If a crate has no listed repository the link shows `$(circle-slash) No repository`. If the crates.io API is unreachable it shows `$(warning) Repository unavailable`.
 
@@ -32,7 +32,7 @@ Hovering over any dependency line shows a popup with:
 - Short description
 - Quick links to crates.io, docs.rs, repository, and homepage
 
-![Hover card showing crate metadata and links](examples/CargoQuickLinksDemo2.png)
+![Hover card showing crate metadata and links](https://github.com/Something-Specific/vs-code-cargo-quick-links/blob/main/examples/CargoQuickLinksDemo2.png?raw=true)
 
 Local path dependencies show a `$(folder) local path dependency` label. Git dependencies show a `$(git-commit) git dependency` label.
 
